@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Cabin', sans-serif;
+    background-color: black;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.linea {
+    background-color: #38A2AA;
+
+}
+
+.container1 {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.container3 {
+    background-color: black;
+}
+
+.encabezado {
+    height: 30px;
+    background-color: #38A2AA;
+}
+
+#footer {
+
+    margin-top: 20px;
+    background-color: #38A2AA;
+}
+
+.titulofooter {
+    font-family: "Cabin", sans-serif;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.iconos {
+    display: inline-block;
+    margin-left: 550px;
+}
